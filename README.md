@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zhenya.
-- 👀 I’m interested in cybersecurity
-- and computer networks.
-- 🌱 I’m currently learning information
-- security and programming.
+- 👀 I’m a cybersecurity student interested in ethical hacking and cryptography.
+- 🌱 I’m currently pursuing my bachelor's degree information security.
+- Good at Maths and C++ programming 👻
 - 📫 How to reach me-
 - mirzoyanjenyaa@gmail.com
 -    🌪In weakness lies the strength
