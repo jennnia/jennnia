@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhenya.
 - 👀 I’m a cybersecurity student interested in ethical hacking and cryptography.
-- 🌱 I’m currently pursuing my bachelor's degree information security.
+- 🌱 I’m currently pursuing my bachelor's degree in information security.
 - Good at Maths and C++ programming 👻
 - 📫 How to reach me-
 - mirzoyanjenyaa@gmail.com
