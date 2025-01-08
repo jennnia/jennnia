@@ -5,7 +5,7 @@
 - 📫 How to reach me-
 - mirzoyanjenyaa@gmail.com
 -    🌪In weakness lies the strength
-       to strenghten✨️
+       to strenghten ✨️
 
 <!---
 jennnia/jennnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
